@@ -5,4 +5,7 @@
 
 ## Two artistic images were combined using style transform in deep learning to obtain a final artificial intelligence art output.
 
-![The final result of the combination of art and artificial intelligence](final_image_outcome_aiart.png)
+
+##The final result of the combination of art and artificial intelligence
+
+<img src="final_image_outcome_aiart.png">
