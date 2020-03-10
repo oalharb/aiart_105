@@ -7,5 +7,5 @@
 
 # Final Images
 
-![The final result of the combination of art and artificial intelligence](/Users/omaralharbi/Desktop/aiart/final_image_outcome_aiart.png)
+![The final result of the combination of art and artificial intelligence](/final_image_outcome_aiart.png)
 
